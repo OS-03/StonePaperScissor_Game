@@ -18,5 +18,5 @@ This is a command-line based Stone Paper Scissor game implemented in Dart. The g
 ## How to Play
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Run the game using the Dart command: `dart run`.
+3. Run the game using the Dart command: `dart file_name.dart`.
 4. Follow the on-screen instructions to play the game.
